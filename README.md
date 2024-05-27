@@ -1,6 +1,8 @@
 # Tare.study
 
 ![image](https://github.com/fermofou/hack_scrumMasters/assets/122712372/16bf65c8-adf3-4b71-8249-9fe22d9669a4)
+![image](https://github.com/fermofou/hack_scrumMasters/assets/122712372/cb1b9769-ef52-4f3f-afea-b481d62ebf6f)
+
 
 TARE.STUDY is a smart platform designed to support teachers by enabling them to:
 * Visualize classroom performance, including student averages and activities.
