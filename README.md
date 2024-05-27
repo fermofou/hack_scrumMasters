@@ -1,5 +1,6 @@
 # Tare.study 
 Made for LinceHack 2024 by:
+
 Gabriel Galván | Julen Hoppenstedt | Fernando Morán | Monica Soberón 
 
 ![image](https://github.com/fermofou/hack_scrumMasters/assets/122712372/16bf65c8-adf3-4b71-8249-9fe22d9669a4)
